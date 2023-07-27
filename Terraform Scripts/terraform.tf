@@ -14,7 +14,7 @@ terraform {
 provider "azurerm" {
 
 features {}
-
+//sanath
 }
 resource "azurerm_resource_group" "resourcegroup" {
 
